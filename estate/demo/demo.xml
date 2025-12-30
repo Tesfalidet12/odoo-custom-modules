@@ -1,0 +1,9 @@
+<odoo>
+    <data>
+        <record id="Hosue 1" model="realstate.property">
+            <field name="name">House Number 1</field>
+            <field name="price">100000</field>
+
+        </record>
+    </data>
+</odoo>

@@ -1,0 +1,13 @@
+<odoo>
+    <menuitem id="app_level" name="Real Estate">
+        <menuitem id="menu_level" name="Advertisement">
+            <menuitem id="submenu_level" name="Estate" action="realstate_property_action"/>
+        </menuitem>
+        <menuitem id="setting" name="Setting">
+            <menuitem id="property_type" name="Property Type" action="realestate_property_type_action"/>
+            <menuitem id="property_tag" name="Property Tag" action="realestate_property_tags_action"/>
+            <menuitem id="property_offer" name="Property Offer" action="estate_offer_action"/>
+
+        </menuitem>
+    </menuitem>
+</odoo>

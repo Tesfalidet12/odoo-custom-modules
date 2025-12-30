@@ -1,0 +1,1 @@
+from . import realestate_property,realestate_property_type,realestate_property_offer, realestate_property_tag
